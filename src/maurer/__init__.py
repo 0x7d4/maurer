@@ -1,0 +1,1 @@
+"""Maurer: Simple static site generator for humans."""
