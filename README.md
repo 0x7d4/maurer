@@ -1,2 +1,2 @@
 # maurer
-Simple WIP SSR for humans
+Simple (WIP) static site generator for humans
